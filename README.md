@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Fan, an iOS software engineer.
-
+- 💼 My name is Fan, an iOS software engineer.
 - 💻 Focusing on Swift & iOS.
 - 🌱 Currently learning SwiftUI.
 
